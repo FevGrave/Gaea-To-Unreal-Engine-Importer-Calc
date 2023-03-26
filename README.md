@@ -1,5 +1,5 @@
 # Gaea-To-Unreal-Engine-Importer-Calc
-A scale calculator use for the land images exported from Gaea and use the Unreal Engine Landscape import method 
+A scale calculator use for the land images exported from Gaea and to be use in the Unreal Engine Landscape import method 
 Requirements 
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ,
